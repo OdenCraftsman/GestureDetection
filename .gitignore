@@ -6,7 +6,7 @@ model/gesture/*.json
 
 # dataset
 dataset/
-**/data/origin/**
+**/data/origin/**/*.mp4
 **/data/*.zip
 **/data/tester/*
 

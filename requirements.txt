@@ -1,0 +1,8 @@
+numpy
+opencv_python
+opencv_contrib_python
+scikit-learn
+nptyping
+keras
+tensorflow==2.10.1
+pandas
