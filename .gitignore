@@ -9,3 +9,5 @@ dataset/
 **/data/origin/**
 **/data/*.zip
 **/data/tester/*
+
+!.gitkeep
