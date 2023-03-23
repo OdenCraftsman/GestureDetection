@@ -1,0 +1,11 @@
+# detection gesture
+**.h5
+**.pth
+**/result/**.jpg
+model/gesture/*.json
+
+# dataset
+dataset/
+**/data/origin/**
+**/data/*.zip
+**/data/tester/*
